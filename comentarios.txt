@@ -1,0 +1,2 @@
+Con el comando "git init" inicializamos el working directory
+Con el comando "git add + el archivo o ." subimos todo al starting area
