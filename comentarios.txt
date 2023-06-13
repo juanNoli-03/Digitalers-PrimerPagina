@@ -1,2 +1,4 @@
 Con el comando "git init" inicializamos el working directory
 Con el comando "git add + el archivo o ." subimos todo al starting area
+Con el comando "git commit - m "blablabla" " ponemos comentarios.
+Con el comando "git log" pedimos informacion.
